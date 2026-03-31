@@ -49,7 +49,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [March 26, 2026, 5:40 PM]
+### Entry 2 - [March 30, 2026, 5:00 PM]
 **What I did**: Implemented feature 1 by adding priority to the processes
 
 **Details**:
@@ -66,7 +66,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [March 27, 2026, 8:10 PM]
+### Entry 3 - [March 30, 2026, 5:30 PM]
 **What I did**: Implemented feature 2 for counting context switches
 
 **Details**:
@@ -83,7 +83,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [March 28, 2026, 6:55 PM]
+### Entry 4 - [March 30, 2026, 6:00 PM]
 **What I did**: Implemented Feature 3 for waiting time tracking
 
 **Details**:
@@ -100,7 +100,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [March 29, 2026, 4:20 PM]
+### Entry 5 - [March 30, 2026, 6:30 PM]
 **What I did**: I checked all three features to see if they work as expected
 
 **Details**:
@@ -117,7 +117,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 6 - [March 30, 2026, 6:45 PM]
+### Entry 6 - [March 30, 2026, 7:00 PM]
 **What I did**: I completed the documentation and GitHub work.
 
 **Details**:
